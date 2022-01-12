@@ -12,10 +12,14 @@ percent of the proceeds was split evenly between the two organizations.
 
 [![covereback.jpg](https://i.postimg.cc/9FLVmW6v/covereback.jpg)](https://postimg.cc/WhqxSPbn)
 
-# Code output:
+# Summernut Squash Pasta:
 
 [![pasta.jpg](https://i.postimg.cc/t4fsgt0Q/pasta.jpg)](https://postimg.cc/nX4FRmc0)
 
+# Variety of salsa options:
+
 [![salsa.jpg](https://i.postimg.cc/QM1dx2k1/salsa.jpg)](https://postimg.cc/FfF4Tn6H)
+
+# And last but not least, my favorite - Hash Mash Up:
 
 [![hash.jpg](https://i.postimg.cc/1XjQKBry/hash.jpg)](https://postimg.cc/N2mSs1nn)
