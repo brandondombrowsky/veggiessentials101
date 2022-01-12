@@ -4,9 +4,15 @@ The digital edition was published in 2018 as a fundraising tool to combat hunger
 with Northwest Harvest (Seattle metro) and Meals On Wheels People (Portland metro) as beneficiaries. One hundred
 percent of the proceeds was split evenly between the two organizations.
 
+# Front cover:
+
 [![cover.jpg](https://i.postimg.cc/zGHwzfLB/cover.jpg)](https://postimg.cc/JsmHKM5V)
 
+# Back cover:
+
 [![covereback.jpg](https://i.postimg.cc/9FLVmW6v/covereback.jpg)](https://postimg.cc/WhqxSPbn)
+
+# Code output:
 
 [![pasta.jpg](https://i.postimg.cc/t4fsgt0Q/pasta.jpg)](https://postimg.cc/nX4FRmc0)
 
