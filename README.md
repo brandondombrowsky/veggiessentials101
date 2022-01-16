@@ -1,5 +1,5 @@
 # veggiessentials101
-The PDF file in this repo holds the expanded digital edition of my 2015 self-published cookbook, Veggiessentials 101. The digital edition was released in 2018 as part of a fundraising campaign to combat food insecurity (see crowdfunding video [here](https://www.gofundme.com/f/fullthisfall)).
+The PDF file in this repo holds the expanded digital edition of my 2015 self-published cookbook, *Veggiessentials 101*. The digital edition was released in 2018 as part of a fundraising campaign to combat food insecurity in the pacific northwest (see crowdfunding video [here](https://www.gofundme.com/f/fullthisfall)).
 
 # Front cover:
 
