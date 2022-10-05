@@ -3,7 +3,7 @@ The PDF file in this repo holds the expanded digital edition of my 2015 self-pub
 
 Completing this projext included management overseeing production from start to finish: receipe testing, layout, design, management of graphic designers and photographers, photo/film editors, general book sales, and marketing.
 
-Click the "Veggiessentials101_Expanded_Digital_Edition.pdf" link above to access the digital edition. 
+Click [to see the e-book here]. 
 
 # Front cover:
 
