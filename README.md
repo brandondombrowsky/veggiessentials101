@@ -3,8 +3,6 @@ The PDF file in this repo holds the expanded digital edition of my 2015 self-pub
 
 Completing this projext included management overseeing production from start to finish: receipe testing, layout, design, management of graphic designers and photographers, photo/film editors, general book sales, and marketing.
 
-Click [to see the e-book here]. 
-
 # Front cover:
 
 [![cover.jpg](https://i.postimg.cc/zGHwzfLB/cover.jpg)](https://postimg.cc/JsmHKM5V)
